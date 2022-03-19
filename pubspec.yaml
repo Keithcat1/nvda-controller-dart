@@ -1,7 +1,7 @@
 name: nvda_controller_client
 description: A simple command-line application.
 version: 0.1.0
- repository: https://github.com/keithcat1/nvda-controller-dart
+repository: https://github.com/keithcat1/nvda-controller-dart
 
 
 environment:
