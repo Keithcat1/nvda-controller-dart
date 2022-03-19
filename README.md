@@ -1,1 +1,1 @@
-A simple command-line application.
+NVDA is a Windows screen reader which lets visually-impared or blind people do stuff better. This small library exposes safe bindings to Dart, letting you speak text through NVDA, or spop it. And test if it's running. That's about all NVDA controller client supports.
