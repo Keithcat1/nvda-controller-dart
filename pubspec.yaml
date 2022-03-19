@@ -1,5 +1,5 @@
 name: nvda_controller_client
-description: A simple command-line application.
+description: Safe FFI bindings to nvdaControllerClient64.dll which is Windows-only and lets you push speech through the Nonvisual Desktop access screen reader
 version: 0.1.0
 repository: https://github.com/keithcat1/nvda-controller-dart
 
