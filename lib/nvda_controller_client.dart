@@ -3,7 +3,6 @@ import "package:win32/win32.dart" show WindowsException, FAILED;
 
 import "nvda_controller_client_bindings.dart";
 import "dart:ffi";
-import "dart:io";
 // NVDA controller doesn't appear to provide any info on an error
 class NvdaException extends WindowsException {
 	NvdaException(int hresult) : super(hresult);
