@@ -1,3 +1,5 @@
+##0.2.1
+Update package constraints
 ## 0.2.0
  - Use win32 to get NVDA exception error info (probably properly)
  - fix the example
